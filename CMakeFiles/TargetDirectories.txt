@@ -1,0 +1,3 @@
+/home/leit/learning/C++/coursera/CMakeFiles/main.dir
+/home/leit/learning/C++/coursera/CMakeFiles/edit_cache.dir
+/home/leit/learning/C++/coursera/CMakeFiles/rebuild_cache.dir
